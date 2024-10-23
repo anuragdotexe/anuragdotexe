@@ -6,5 +6,3 @@
 🛌🏾 Just casually plotting my world domination in the fields of AI/ML and data analytics <br/>
 🌻 I’m diving into NLP, Deep Learning, Predictive Modeling, and data buzzwords—pronunciation included <br/>
 ❄️ Always try to bceome oversmart <br/>
-
-![Fake GitHub stats](https://github-readme-stats.vercel.app/api?username=fake&show_icons=true&theme=radical)
